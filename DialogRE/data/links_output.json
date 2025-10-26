@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Bob",
+    "target": "Mary",
+    "linkType": "positive",
+    "strength": 0.4350282485875706
+  },
+  {
+    "source": "Mary",
+    "target": "Jane",
+    "linkType": "negative",
+    "strength": 0.4350282485875706
+  },
+  {
+    "source": "Jane",
+    "target": "Bob",
+    "linkType": "positive",
+    "strength": 0.36305732484076436
+  }
+]

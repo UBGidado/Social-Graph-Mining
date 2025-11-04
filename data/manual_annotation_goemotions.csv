@@ -1,0 +1,51 @@
+conversation_id,subject,object,relation,sentence,gold_emotions,polarity
+conv_77,Speaker 2,Joey,per:positive_impression,"[SPEAKER] Speaker 2: I don't know, you know, just the way she waltzed in here all smart, and tall! You know, and just swept [E2]Joey[/E2] off his feet... I mean, nobody else has a chance!",fear,negative
+conv_252,Chandler,Speaker 2,per:parents,"[SPEAKER] Speaker 1: Alright, so that leaves [E1]Chandler[/E1].",neutral,neutral
+conv_5,Speaker 2,Frank,per:siblings,"[SPEAKER] Speaker 2: Yeah, I did. I think it sounds y'know big sistery, y'know, '[E2]Frank[/E2]'s always late.'",diappointment,negative
+conv_68,Janice,Speaker 1,per:girl/boyfriend,"[SPEAKER] Speaker 1: [E1]Janice[/E1]'s birthday is coming up, I want to get her something special. Come in here with me.",caring,positive
+conv_149,Speaker 1,Frank Jr. Jr.,per:children,[SPEAKER] Speaker 1: [E2]Frank Jr. Jr.[/E2]!!,neutral,neutral
+conv_224,David,Speaker 3,per:girl/boyfriend,"[SPEAKER] Speaker 3: [E1]David[/E1]'s like, y'know, Scientist Guy. He's very methodical.",admiration,positive
+conv_58,Monica,Speaker 1,per:siblings,[SPEAKER] Speaker 1: You did! Oh.... I always figured you just thought I was [E1]Monica[/E1]'s geeky older brother.,neutral,neutral
+conv_251,Barry,Speaker 1,per:girl/boyfriend,"[SPEAKER] Speaker 1: Hey, you guys! Guess what? [E1]Barry[/E1] and Mindy are getting a divorce!",joy,positive
+conv_833,Speaker 2,Monica,per:spouse,"[SPEAKER] Speaker 2: Oh uh, as it turns out, we can’t do it. [E2]Monica[/E2] has to work.",anger,negative
+conv_52,Aunt Sheryl,Speaker 4,per:other_family,"[SPEAKER] Speaker 4: Well l-look okay, it’s probably just a mistake. Let me call [E1]Aunt Sheryl[/E1] okay? Maybe you are invited and the invitation just got lost in the mail.",optimism,positive
+conv_147,Speaker 2,Gary,per:spouse,"[SPEAKER] Speaker 1: I think you should go back with [E2]Gary[/E2]. I don't wanna be the guy that breaks up a family, y'know when my parents split up, it was because of that guy. Whenever I would see him I was always think y'know 'You're the reason, you are the reason why their not together.' and I hated that guy. And it didn't matter how nice he was, or how happy he made my Dad.",sadness,negative
+conv_492,Emma,Speaker 1,per:parents,[SPEAKER] Speaker 1: Can any of you watch [E1]Emma[/E1]?,neutral,neutral
+conv_486,Speaker 1,Monica,per:girl/boyfriend,[SPEAKER] Speaker 1: Guys? I’ve got something important to tell ya. Guys? Guys?! I’m gonna ask [E2]Monica[/E2] to marry me.,love,positive
+conv_83,Speaker 1,Rachel,per:friends,"[SPEAKER] Speaker 1: See my friend-my friend, [E2]Rachel[/E2], she wants to be set up.",optimism,positive
+conv_198,Richard,Speaker 1,per:girl/boyfriend,[SPEAKER] Speaker 1: I need to get some [E1]Richard[/E1].,neutral,neutral
+conv_388,Speaker 1,Carol,per:girl/boyfriend,"[SPEAKER] Speaker 1: Oh mom! Okay, umm, her name is [E2]Carol[/E2]. And she's really pretty. And smart. And uh, she's-she's on the lacrosse team and the golf team. Can you believe it? She plays for both teams!",admiration,positive
+conv_61,Speaker 1,Missy Goldberg,per:positive_impression,"[SPEAKER] Speaker 1: Hey, there's [E2]Missy Goldberg[/E2]. You gotta remember her.",optimism,positive
+conv_336,Speaker 1,Chandler,per:positive_impression,"[SPEAKER] Speaker 2: Yeah, well, I guess I have forgotten about Joey and clearly you've forgotten about [E2]Chandler[/E2]!",pride,positive
+conv_629,Alice,Speaker 3,per:girl/boyfriend,"[SPEAKER] Speaker 3: Okay, so what you used to have with Rachel, is what I've got with [E1]Alice[/E1].",neutral,neutral
+conv_350,Speaker 2,Barry,per:girl/boyfriend,"[SPEAKER] Speaker 1: Anyway.. um.. So, you- uh- you nervous about [E2]Barry[/E2] tomorrow?",neutral,neutral
+conv_881,Emillio,Marie,per:children,"[SPEAKER] Speaker 1: I’m so excited about having Monica come on board with us. Although I do feel bad about having fired chef [E1]Emillio[/E1], it’s like losing a member of the family. Of course, that literally is the case for several of you. Tony, Carlos, [E2]Marie[/E2], please, tell your father how much we’re gonna miss him. Now, I know that Monica has a lot of great ideas for this place, well, you all read the review. So without much further ado, I present to you our new head chef.",joy,positive
+conv_594,Speaker 1,Mrs. Tribbiani,per:parents,"[SPEAKER] Speaker 2: Hello? Yeah, hi! [E2]Mrs. Tribbiani[/E2]? Hi, this is Monica Geller. Yeah I’m just calling to say that Chandler and I uh, really hope you can make it to the wedding. Yeah, apparently a bunch of invitations that we sent weren’t delivered. Umm, I guess there was some screw up at the damn post office! T-Tell me about it! Yeah, yeah, the US Post Office? No, more like US lost office! What are they Irish?!",disappointment,negative
+conv_99,Speaker 2,Gandolf,per:positive_impression,"[SPEAKER] Speaker 2: Joey, you are gonna love this guy. [E2]Gandolf[/E2] is like the party wizard!",approval,positive
+conv_552,Speaker 3,Ben,per:children,[SPEAKER] Speaker 5: Hi [E2]Ben[/E2]!,neutral,neutral
+conv_650,Speaker 2,Mike,per:positive_impression,"[SPEAKER] Speaker 2: No, I know, this way when I go to the party later [E2]Mike[/E2] will know I am over him cause I'm gonna smell like another guy. Yeah.",annoyance,negative
+conv_224,Janice,Speaker 5,per:girl/boyfriend,"[SPEAKER] Speaker 5: Yeah, 'cause I already asked [E1]Janice[/E1].",neutral,neutral
+conv_252,Frank Jr.Jr.,Alice,per:parents,"[SPEAKER] Speaker 1: [E2]Alice[/E2] would never go for it, right?",optimism,positive
+conv_130,Speaker 2,Monica,per:friends,"[SPEAKER] Speaker 1: All right. Okay. You and [E2]Monica[/E2], friends for a long time, and sure there are rules, but then you went to London. Oh, no, but that’s different. I mean, there are rules there, too! You know what I mean?",disappointment,negative
+conv_45,Speaker 1,Ben,per:other_family,"[SPEAKER] Speaker 3: Oh, I’m just over here with [E2]Ben[/E2]. I thought we’d say hi.",optimism,positive
+conv_268,Jiminy Billy Bob,Speaker 2,per:children,"[SPEAKER] Speaker 2: We had a good time. By the way, I wanted to ask you something. It would really mean a lot to me, if the baby was a boy, that you name him after my father, [E1]Jiminy Billy Bob[/E1].",caring,positive
+conv_588,Monica,Richard,per:girl/boyfriend,"[SPEAKER] Speaker 1: Umm, Chandler, you do realize that those ideas are probably already in [E1]Monica[/E1]'s head.",fear,negative
+conv_678,Speaker 2,Rachel,per:girl/boyfriend,[SPEAKER] Speaker 1: How could you not tell Mona that [E2]Rachel[/E2] is living with you?,diappointment,negative
+conv_114,Emily,Speaker 1,per:spouse,"[SPEAKER] Speaker 2: Well, I-I-I don't know how this fits into your whole ""seizing"" thing but um, [E1]Emily[/E1] called you today.",sadness,negative
+conv_458,Speaker 1,Ross,per:friends,"[SPEAKER] Speaker 2: Oh my God, the air purifier! [E2]Ross[/E2]'s air purifier! All I heard through 4 years of college was.",annoyance,negative
+conv_413,Speaker 4,Alan,per:positive_impression,[SPEAKER] Speaker 4: [E2]Alan[/E2].,neutral,neutral
+conv_169,Deliah,Speaker 1,per:girl/boyfriend,[SPEAKER] Speaker 1: Her name is [E1]Deliah[/E1].,neutral,neutral
+conv_804,Rachel,Speaker 2,per:friends,"[SPEAKER] Speaker 2: Yeah, I'm a friend of [E1]Rachel[/E1] Green's. Uhm, actually we met at the Christmas party about two years ago.",neutral,neutral
+conv_489,Ross,Speaker 2,per:friends,"[SPEAKER] Speaker 2: That is great. Hey, y’know who doesn’t have to job hunt? [E1]Ross[/E1]. He works at the university.",approval,positive
+conv_333,Speaker 2,Ross,per:positive_impression,"[SPEAKER] Speaker 2: We have too! I mean what if [E2]Ross[/E2]'s hears that and then calls her back and then they get back together? Is that what you want? [E2]Ross[/E2] back with that controlling, neurotic, crazy Emily? The Emily that wouldn't let him see you?",annoyance,negative
+conv_293,Speaker 1,Hannigan,per:spouse,"[SPEAKER] Speaker 1: Okay, well, I just don't, I don't know how it works exactly. See, my name is Buffay and my husband's name is [E2]Hannigan[/E2], so is it supposed to be Buffay-[E2]Hannigan[/E2] or [E2]Hannigan[/E2]-Buffay?",neutral,neutral
+conv_631,Speaker 2,Julie Grath,per:girl/boyfriend,"[SPEAKER] Speaker 2: [E2]Julie Grath[/E2], my camp girlfriend.",neutral,neutral
+conv_757,Sue Angle,Speaker 4,per:friends,"[SPEAKER] Speaker 4: Phoebe, these are our friends, Tom and [E1]Sue Angle[/E1].",approval,positive
+conv_84,Emma,Speaker 2,per:other_family,[SPEAKER] Speaker 2: So when do I get to meet [E1]Emma[/E1] and show her this?,neutral,neutral
+conv_326,Sting,Speaker 2,per:negative_impression,[SPEAKER] Speaker 1: You’re gonna love me so much. I got [E1]Sting[/E1] tickets!!,optimism,positive
+conv_894,Speaker 1,Rachel,per:positive_impression,[SPEAKER] Speaker 1: So I’m thinking about asking [E2]Rachel[/E2] out tonight. Y'know maybe play her that song we wrote last week.,caring,positive
+conv_701,Speaker 2,Emma,per:other_family,[SPEAKER] Speaker 1: Ehm... Her name is [E2]Emma[/E2].,neutral,neutral
+conv_774,Speaker 3,Jessica Lockhart,per:positive_impression,"[SPEAKER] Speaker 1: Uh Cecilia Monroe, she plays [E2]Jessica Lockhart[/E2].",neutral,neutral
+conv_309,Speaker 2,Julie,per:girl/boyfriend,"[SPEAKER] Speaker 2: I uh, I just got back from uh, from [E2]Julie[/E2]'s.",neutral,neutral
+conv_629,Rachel,Speaker 1,per:girl/boyfriend,"[SPEAKER] Speaker 1: No the man's right, that's what I had with [E1]Rachel[/E1].",approval,positive
+conv_954,Emma,Speaker 1,per:parents,"[SPEAKER] Speaker 1: Hi... There she is. Hi [E1]Emma[/E1]. Oh my God, I missed you. Oh [E1]Emma[/E1], I missed you so much. Hey... Did you have a good time with grandma Green? Huh? Did she give you a bottle of anti-depressants again to use as a rattle?",love,positive

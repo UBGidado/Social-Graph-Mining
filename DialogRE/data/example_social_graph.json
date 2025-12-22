@@ -3,18 +3,18 @@
     "source": "Bob",
     "target": "Mary",
     "linkType": "positive",
-    "strength": 0.4350282485875706
+    "score": 0.6849424630965867
   },
   {
     "source": "Mary",
     "target": "Jane",
     "linkType": "negative",
-    "strength": 0.4350282485875706
+    "score": 0.6849424630965867
   },
   {
     "source": "Jane",
     "target": "Bob",
     "linkType": "positive",
-    "strength": 0.36305732484076436
+    "score": 0.6704410389248109
   }
 ]

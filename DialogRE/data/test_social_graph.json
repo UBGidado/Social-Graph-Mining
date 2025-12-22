@@ -1,0 +1,62 @@
+[
+  {
+    "source": "Speaker 4",
+    "target": "Speaker 2",
+    "linkType": "negative",
+    "score": 0.4593591046906834
+  },
+  {
+    "source": "Speaker 2",
+    "target": "Speaker 1",
+    "linkType": "negative",
+    "score": 0.4831486655083008
+  },
+  {
+    "source": "Rachel",
+    "target": "Speaker 2",
+    "linkType": "positive",
+    "score": 0.5415939886947765
+  },
+  {
+    "source": "Speaker 4",
+    "target": "Speaker 1",
+    "linkType": "negative",
+    "score": 0.4593591046906834
+  },
+  {
+    "source": "Speaker 3",
+    "target": "Speaker 2",
+    "linkType": "positive",
+    "score": 0.49842393093394455
+  },
+  {
+    "source": "Speaker 1",
+    "target": "Joey",
+    "linkType": "positive",
+    "score": 0.4831486655083008
+  },
+  {
+    "source": "Joey",
+    "target": "Speaker 1",
+    "linkType": "positive",
+    "score": 0.32294312550183535
+  },
+  {
+    "source": "Speaker 3",
+    "target": "Rachel",
+    "linkType": "positive",
+    "score": 0.4831486655083008
+  },
+  {
+    "source": "Speaker 3",
+    "target": "Kenneth Schwartz",
+    "linkType": "negative",
+    "score": 0.3718648948103592
+  },
+  {
+    "source": "Speaker 2",
+    "target": "Speaker 3",
+    "linkType": "positive",
+    "score": 0.5484187650774077
+  }
+]
